@@ -1,6 +1,6 @@
 # Brain-tumor-detection
 
-# Beyin Tümörü Tespiti Projesi
+# Beyin Tümörü Tespit Projesi
 
 Bu proje, YOLOv8 kullanarak MRI görüntülerinde beyin tümörlerini tespit etmektedir. YOLOv8 modeli ile eğitilmiş bir ağırlık dosyası kullanarak, model beyin tümörlerini tespit etmek için tahminler yapacaktır.
 
