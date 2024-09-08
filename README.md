@@ -68,5 +68,7 @@ python main.py
 ### 6. Sonuçları Görüntüleme
 Model tarafından işlenen görüntüler ve tahmin sonuçları, `runs/detect/predict` klasörüne kaydedilecektir.
 
+![Model Sonucu](Model_Result/1.jpg)
+
 ---
 
