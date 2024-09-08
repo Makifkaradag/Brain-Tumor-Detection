@@ -11,8 +11,8 @@ Projeyi çalıştırmak içn aşağıdaki adımlar izlemelidir:
 1. Gerekli Yazılımlar
 Projeyi çalıştırmadan önce, aşağıdaki yazılımların kurulu olduğundan emin olun:
 
-- **Python 3.7 veya üstü**: [Python.org](https://www.python.org/downloads/)
-- **Git** (Opsiyonel, projeyi klonlamak için): [Git](https://git-scm.com/downloads)
+- Python 3.7 veya üstü: [Python.org](https://www.python.org/downloads/)
+- Git (Opsiyonel, projeyi klonlamak için): [Git](https://git-scm.com/downloads)
 
 2. Projeyi Klonlama
 Projeyi GitHub'dan klonlayabilirsiniz. Terminal veya komut satırında aşağıdaki komutu kullanarak projeyi bilgisayarınıza klonlayın:
@@ -32,7 +32,6 @@ Projede kullanılan kütüphaneleri yüklemek için, proje dizininde aşağıdak
 pip install -r requirements.txt
 ```
 
-Bu komut, projede kullanılan `ultralytics`, `torch`, `opencv-python` ve diğer gerekli kütüphaneleri kuracaktır.
 
 
 
